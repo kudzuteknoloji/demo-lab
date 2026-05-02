@@ -1,27 +1,29 @@
-# Project Name
+# Kudzu Demo Lab
 
 ## Overview
-Short description of the project.
+This repository contains demonstration environments and scenarios used by Kudzu Teknoloji for showcasing cybersecurity and infrastructure solutions.
 
-## Architecture
-- Component 1
-- Component 2
+## Demo Scenarios
 
-## Setup
-git clone <repo>
-cd project
+### 🔐 Backup & Disaster Recovery
+- Backup strategy
+- Restore testing
+- Offsite replication
 
-## Environment
-- OS:
-- Runtime:
-- Dependencies:
+### 🛡️ Cybersecurity
+- SIEM demo
+- Log monitoring
+- Incident detection
 
-## Deployment
-Steps to deploy.
+### 🌐 Infrastructure
+- Network segmentation
+- Firewall scenarios
+- VPN architecture
 
-## Security Notes
-- Secrets are not stored in repo
-- Use environment variables
+## Use Cases
+- Customer demos
+- Pre-sales technical validation
+- Internal testing
 
 ## Maintainer
 Kudzu Teknoloji
