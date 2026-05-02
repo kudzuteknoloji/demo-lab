@@ -3,6 +3,14 @@
 ## Overview
 This repository contains demonstration environments and scenarios used by Kudzu Teknoloji for showcasing cybersecurity and infrastructure solutions.
 
+## What is this?
+This repository showcases real-world cybersecurity and infrastructure scenarios prepared by Kudzu Teknoloji.
+
+## Why it matters
+- Demonstrates technical capability
+- Shows real deployment approaches
+- Enables faster decision-making for customers
+
 ## Demo Scenarios
 
 ### 🔐 Backup & Disaster Recovery
@@ -27,3 +35,6 @@ This repository contains demonstration environments and scenarios used by Kudzu 
 
 ## Maintainer
 Kudzu Teknoloji
+
+## Contact
+https://kudzu.com.tr
